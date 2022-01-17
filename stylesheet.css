@@ -1,0 +1,10 @@
+input, select {
+    vertical-align: middle;
+}
+
+
+.title-h2 {
+    color: yellow;
+    background-color: blue;
+    font-size: 40px;
+}
